@@ -160,6 +160,14 @@ tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 鳳凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
 鳳凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+東森超視,http://220.134.196.147:9524/http/116.50.42.18:8081/hls/64/806/ch14.m3u8?token=
+東森超視,http://198.16.100.90:8278/ettvsuper/playlist.m3u8?
+
+tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?
+
+tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 緯來綜合台(26),http://123.51.229.65:18540/.m3u8
 緯來綜合台(26),http://220.134.196.147:9519/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
 緯來綜合台,http://60.251.33.252:18540/.m3u8

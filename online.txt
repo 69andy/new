@@ -167,7 +167,7 @@ tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?
 
 tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 緯來綜合台(26),http://123.51.229.65:18540/.m3u8
 緯來綜合台(26),http://220.134.196.147:9519/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
 緯來綜合台,http://60.251.33.252:18540/.m3u8
